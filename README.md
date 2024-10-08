@@ -1,4 +1,4 @@
-# FreeCodeCamp Practice Repository
+# FreeCodeCamp Practice
 
 Welcome to my **FreeCodeCamp Practice Repository**! This repository serves as a collection of my projects and practice code as I work through various curricula. The goal is to enhance my programming skills and apply wha I have learned in practical projects.
 
@@ -8,9 +8,7 @@ FreeCodeCamp is an interactive learning platform that provides coding courses in
 ## Curricula
 This repository contains the following folders, each dedicated to a specific FreeCodeCamp curriculum:
 
-1. **[Scientific Computing with Python]
-(scientific-computing/)**
+1. **[Scientific Computing with Python](scientific-computing/)**
 
-____
 
 Thank you for visiting my repository! 
